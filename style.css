@@ -29,6 +29,7 @@ body{
     padding-top: 20px;
     border-top-right-radius: 10px;
     border-top-left-radius: 10px;
+    padding-bottom: 50px;
 }
 
 .item-2{
@@ -57,7 +58,6 @@ h2{
     padding-left: 30px;
     padding-right: 50px;
     color: hsl(179, 62%, 43%);
-    padding-bottom: 30px;
 }
 h3{
     color: #fff;
