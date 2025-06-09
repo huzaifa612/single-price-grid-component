@@ -115,6 +115,12 @@ h6, .item-3 p{
         margin-left: auto;
         margin-right: auto;
     }
+    button{
+        display: block;
+        padding: 15px 100px;
+        margin-left: auto;
+        margin-right: auto;
+    }
     .item-1{
         border-radius: 0;
     }
